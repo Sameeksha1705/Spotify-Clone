@@ -1,4 +1,4 @@
-#🎵 Spotify Clone – Music Player UI Project
+# Spotify Clone – Music Player UI Project 🎵
 
 This project is a Spotify-inspired web UI built using only HTML and CSS. It recreates the layout and design of the Spotify web player interface with a focus on styling and structure.
 
